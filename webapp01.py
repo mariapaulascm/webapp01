@@ -8,7 +8,7 @@ image01 = Image.open('MdESr8DL_400x400 (1).jpg')
 st.title("O Porquê de Neon Genisis Evangelion ser uma obra tão genial" )
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header(" uma obra de Neon Genisis Evangelion,  ")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
